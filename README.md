@@ -1,4 +1,4 @@
-# sairen
+# Sairen
 Linux From Scratch Project
 
 Sairen Linux is meant to have UI built on Python and Kivy. 
