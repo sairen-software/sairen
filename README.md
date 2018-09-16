@@ -1,6 +1,8 @@
 # Sairen Linux
 Linux From Scratch Project
 
+#forgive the typos i kinda rushed and didn't fix the grammar. ill do it later. ;)
+
 website being built(sairen.org "not up")
 
 Sairen Linux is meant to have UI built on Python and Kivy.
